@@ -1,0 +1,18 @@
+current directory: /Users/tomaszdebek/Applications_M1/My_Page/discord_app/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.7/ext/websocket-driver
+/Users/tomaszdebek/.rbenv/versions/3.3.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/tomaszdebek/Applications_M1/My_Page/discord_app/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.7/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20250217-9168-u2iiwd sitelibdir\=./.gem.20250217-9168-u2iiwd clean
+
+current directory: /Users/tomaszdebek/Applications_M1/My_Page/discord_app/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.7/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20250217-9168-u2iiwd sitelibdir\=./.gem.20250217-9168-u2iiwd
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/tomaszdebek/Applications_M1/My_Page/discord_app/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.7/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20250217-9168-u2iiwd sitelibdir\=./.gem.20250217-9168-u2iiwd install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20250217-9168-u2iiwd
+
+current directory: /Users/tomaszdebek/Applications_M1/My_Page/discord_app/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.7/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20250217-9168-u2iiwd sitelibdir\=./.gem.20250217-9168-u2iiwd clean

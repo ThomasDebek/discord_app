@@ -1,0 +1,19 @@
+current directory: /Users/tomaszdebek/Applications_M1/My_Page/discord_app/vendor/bundle/ruby/3.3.0/gems/debug-1.10.0/ext/debug
+/Users/tomaszdebek/.rbenv/versions/3.3.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/tomaszdebek/Applications_M1/My_Page/discord_app/vendor/bundle/ruby/3.3.0/gems/debug-1.10.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250217-9168-ie3hqj sitelibdir\=./.gem.20250217-9168-ie3hqj clean
+
+current directory: /Users/tomaszdebek/Applications_M1/My_Page/discord_app/vendor/bundle/ruby/3.3.0/gems/debug-1.10.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250217-9168-ie3hqj sitelibdir\=./.gem.20250217-9168-ie3hqj
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+
+current directory: /Users/tomaszdebek/Applications_M1/My_Page/discord_app/vendor/bundle/ruby/3.3.0/gems/debug-1.10.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250217-9168-ie3hqj sitelibdir\=./.gem.20250217-9168-ie3hqj install
+/usr/bin/install -c -m 0755 debug.bundle ./.gem.20250217-9168-ie3hqj/debug
+
+current directory: /Users/tomaszdebek/Applications_M1/My_Page/discord_app/vendor/bundle/ruby/3.3.0/gems/debug-1.10.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250217-9168-ie3hqj sitelibdir\=./.gem.20250217-9168-ie3hqj clean
